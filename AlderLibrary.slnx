@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/AlderLibrary/AlderLibrary.csproj" />
+  <Project Path="tests/AlderLibrary.Tests/AlderLibrary.Tests.csproj" />
+</Solution>

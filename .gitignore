@@ -1,0 +1,7 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+TestResults/
+data/loans.local.json
+data/loans.local.json.lock
+data/loans.local.json.tmp

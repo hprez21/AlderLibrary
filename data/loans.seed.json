@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1001,
+    "bookTitle": "A Map of Small Rivers",
+    "borrower": "Maya Reed",
+    "returnedAt": null
+  },
+  {
+    "id": 1002,
+    "bookTitle": "The Orchard Notebook",
+    "borrower": "Theo Bell",
+    "returnedAt": "2026-01-15T10:30:00+00:00"
+  }
+]
